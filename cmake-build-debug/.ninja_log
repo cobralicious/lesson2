@@ -1,0 +1,5 @@
+# ninja log v6
+16	952	7485437307981239	CMakeFiles/C___course.dir/main.cpp.obj	e5453f07d085b7f4
+22	1438	7485437043702753	CMakeFiles/C___course.dir/cin.cpp.obj	85f40944a024c55
+46	211	7485437540546390	C___course.exe	26896fc22984482c
+3	401	7486016752722738	build.ninja	d62fc7e35cb387c4
